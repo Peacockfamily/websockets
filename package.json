@@ -1,0 +1,23 @@
+{
+  "name": "websockets-game",
+  "version": "1.0.0",
+  "description": "browser tank game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peacockfamily/websockets.git"
+  },
+  "keywords": [
+    "websockets",
+    "unity"
+  ],
+  "author": "Kyle and Will Peacock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peacockfamily/websockets/issues"
+  },
+  "homepage": "https://github.com/Peacockfamily/websockets#readme"
+}
